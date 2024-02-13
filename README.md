@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" style="border-radius: 50% !important" src="perfil_cropped.jpg" />
+   <img align="center" width="200" style="border-radius: 50% !important" src="perfil_cropped.png" />
    <h3 align="center">¡Hey there, I'm Carlos! 👋</h3>
 </p>
 
@@ -15,8 +15,10 @@
 </p>
 
 
-<!-- ### This is my repository for some of my personal projects, feel free to check its content 😊 -->
-<!--
+### This is my repository for some of my personal projects, feel free to check its content 😊
+
+<p><span style="width: 8px;"></span></p>
+<!---
 **letesdev/letesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
