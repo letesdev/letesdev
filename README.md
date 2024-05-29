@@ -7,12 +7,9 @@ My name is Carlos Santos, I'm a Telecommunications and Robotics Engineer.
 - 🏎  I’m currently working on **Advanced Driver Assistance Systems** (ADAS) at Renault Group. 
 - ☁  I’m currently learning **AWS**. 
 - 📚 I love reading **books**, can you guess one of my favorites ? 👀
-- 🤔 I’m looking for help with my carreer...
-- 💬 Ask me about ADAS or smartphones. 
 - 📫 You can reach me by <a href="mailto:carlosantos2807@gmail.com">email</a> or <a href="https://www.linkedin.com/in/carlossantosseisdedos">LinkedIn</a>. 
-- ⚡ Fun fact: I love proverbs... _I am looking for a group of people for a reading group and drinking wine, it is not necessary to read._
 
-### This is my repository for some of my personal projects, feel free to check its content 😊
+### Here are some of my personal projects, feel free to check its content 😊
 
 <!-- 
 <p align="center">
